@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore.Migrations;
 using System;
 
-namespace PetSpa04.Data.Migrations
+namespace PetSpa.Infrastructure.Data.Migrations
 {
     public partial class CreateIdentitySchema : Migration
     {
